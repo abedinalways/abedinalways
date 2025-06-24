@@ -3,7 +3,14 @@
   <img src="https://github.com/abedinalways/abedinalways/blob/main/Minhaj.png" alt="banner" />
 </p>
 
-# 👋 Hi there, I'm Sheikh Minhajul Abedin
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abedinalways.abedinalways" alt="visitor badge" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Sheikh+Minhajul+Abedin....;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG" />
+  </a>
+</h1>
+<br>
 
 ### 💻 A passionate Full Stack Web Developer from Bangladesh
 
