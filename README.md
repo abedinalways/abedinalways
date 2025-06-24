@@ -69,11 +69,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![](https://github-readme-stats.vercel.app/api?username=abedinalways&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abedinalways&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abedinalways&theme=dark&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abedinalways&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abedinalways&theme=dark&hide_border=false" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedinalways&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
+
 
 ---
 
