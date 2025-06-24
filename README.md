@@ -79,7 +79,7 @@
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abedinalways&repo=project-1&theme=dark)](https://github.com/abedinalways/project-1)
+[![Readme Card](https://stack-mind-server.vercel.app/)](https://github.com/abedinalways/StackMind-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abedinalways&repo=project-2&theme=dark)](https://github.com/abedinalways/project-2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abedinalways&repo=project-3&theme=dark)](https://github.com/abedinalways/project-3)
 
