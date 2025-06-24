@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sheikh Minhajul Abedin<br>A passionate Full Stack developer from Bangladesh
+<h1>Hi 👋, I'm Sheikh Minhajul Abedin<br>A passionate Full Stack developer from Bangladesh</h1>
 <img src="https://github.com/abedinalways/abedinalways/blob/main/Minhaj.png">
 
 # 💻 Tech Stack:
