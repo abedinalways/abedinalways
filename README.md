@@ -1,23 +1,22 @@
-<!-- Banner -->
+
 <p align="center">
-  <img src="https://github.com/abedinalways/abedinalways/blob/main/banner.png" alt="banner" />
+  <img src="https://github.com/abedinalways/abedinalways/blob/main/Minhaj.png" alt="banner" />
 </p>
 
 # 👋 Hi there, I'm Sheikh Minhajul Abedin
 
 ### 💻 A passionate Full Stack Web Developer from Bangladesh
 
-<img src="https://github.com/abedinalways/abedinalways/blob/main/Minhaj.png" width="200" />
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 🔭 I’m currently working on a **B2C Parcel Management & Delivery System**
+- 🔭 I’m currently working on a **B2C Parcel Management & Delivery System web Application**
 - 🌱 Exploring **Next.js** and **D3.js** for advanced frontend and data visualization
 - ⚙️ Actively contributing to open source and building real-world MERN stack projects
 - 🚀 I love creating web applications with smooth UX and clean UI
-- 📚 Practicing **DSA with C++** and exploring **Laravel** backend framework
+- 📚 Practicing **DSA with C++** and exploring **Django** backend framework
 
 ---
 
@@ -56,10 +55,10 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abedinalways)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abedinalways)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-minhajul-abedin-bb51162a4/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Abedin.always)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abedinalways)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com) <!-- Replace this -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com) 
 
 ---
 
@@ -77,7 +76,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abedinalways&repo=project-2&theme=dark)](https://github.com/abedinalways/project-2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abedinalways&repo=project-3&theme=dark)](https://github.com/abedinalways/project-3)
 
-<!-- Replace project-1,2,3 with actual repo names -->
 
 ---
 
