@@ -71,7 +71,7 @@
 <a href="https://github.com/abedinalways" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://abedin.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 </p>
