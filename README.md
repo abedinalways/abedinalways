@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/abedinalways/abedinalways/blob/main/Minhaj.png" alt="banner" />
+  <img src="https://github.com/abedinalways/abedinalways/blob/main/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif
+abedinalways" alt="banner" />
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abedinalways.abedinalways" alt="visitor badge" />
